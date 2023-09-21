@@ -1,0 +1,1 @@
+This project is based on databases and how to use MySQL to create and manage databases.
